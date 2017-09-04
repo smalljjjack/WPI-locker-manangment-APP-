@@ -4,4 +4,11 @@ Java app development
 I did this Android Application in 2017 Spring for the MIS 571 Database develop application course final project. 
 
 This program is for helping WPI gym administrator manage the gym lockers. It stores all user, locker and administrator's information in
-Database. I applied SQLite as the model construct the Database. 
+Database. I applied SQLite as the model construct the Database. This app accomplished User register, locker register, locker maintainence,
+user usage document and check functions. So adminstrator could east sustain the locker and check which locker is avaliable or filld. 
+
+When the administrator clean the locker in every night, they will not need to the locker one by one. And when a user need a locker, s/he 
+could just check which locker is avaliable on the app. And when one locker is working worng, the administrator can just contact the maintainence
+by the app and prohibit other using it.
+
+I used Java studio, Java to construct he app and used HTML, XML to establish user Interface.
