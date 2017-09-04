@@ -3,4 +3,5 @@ Java app development
 
 I did this Android Application in 2017 Spring for the MIS 571 Database develop application course final project. 
 
-This program is for helping 
+This program is for helping WPI gym administrator manage the gym lockers. It stores all user, locker and administrator's information in
+Database. I applied SQLite as the model construct the Database. 
