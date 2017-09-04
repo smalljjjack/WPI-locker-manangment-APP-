@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">lockersystem</string>
+    <string name="Welcome">welcometolockersystem</string>
+    <string name="UserType">usertype</string>
+    <string name="UserIdTX">useridtx</string>
+    <string name="userid">UserId</string>
+    <string name="EnterUserId">enterUserId</string>
+    <string name="Password">password</string>
+    <string name="Loginnow">Login</string>
+    <string name="ForgetPassword">Forget Password</string>
+    <string name="LogReminder">logreminder</string>
+    <string name="LockerNum">lockernum</string>
+    <string name="LockerCheckIn">Locker checkin</string>
+    <string name="usertype">choosetsertype_prompt</string>
+    <string name="LogOff">Log Off</string>
+    <string name="UserCheckIn">Check In</string>
+    <string name="SendVerifyCode">snedcode</string>
+    <string name="ConfirmAccount">confirmaccount</string>
+    <string name="LockerNumReminder">lockernumreminder</string>
+    <string name="CheckOut">Check out</string>
+    <string name="Reserve">reserve_btn</string>
+    <string name="ChooseFloor">choosefloor_prompt</string>
+    <string name="availableLocker">Availavle</string>
+    <string name="unavailableLocker">Unavailable</string>
+    <string name="Repair">Repair</string>
+    <string name="ResetPassword">resetpassword</string>
+    <string name="Reset">Reset</string>
+    <string name="Register">Register</string>
+    <string name="floor_prompt">Choose a floor</string>
+    <string name="CheckLockerUsage">Check Locker Usage</string>
+    <string name="LockerMaintenance">Locker Maintenance</string>
+    <string name="ChooseaType">Choose a Type</string>
+    <string name="BacktoMainpage">backtomainpage</string>
+    <string-array name = "usertype_array">
+        <item>Student</item>
+        <item>Guest</item>
+        <item>Administrators</item>
+    </string-array>
+    <string-array name = "choosefloor_array">
+        <item>First Floor</item>
+        <item>Second Floor</item>
+    </string-array>
+
+</resources>

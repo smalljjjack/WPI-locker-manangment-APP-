@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/red">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/adminlayoutTX"
+            android:layout_width="341dp"
+            android:layout_height="61dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="20sp"
+            android:gravity="center"
+            android:text="Dear administrator:"
+            android:textAlignment="center"
+            android:textColor="@android:color/holo_blue_light"
+            android:textSize="38sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/logoff_btn"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="right"
+            android:layout_marginLeft="150sp"
+            android:layout_weight="0.13"
+            android:shadowColor="@color/brown"
+            android:background="@drawable/roundbutton"
+            android:text="@string/LogOff"
+            android:textAllCaps="false"
+            android:textColor="@android:color/white"
+            android:textSize="23sp"
+            android:textStyle="bold|italic"
+            tools:text="Log Off" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30sp"
+        android:orientation="horizontal"
+        android:weightSum="1">
+
+        <TextView
+            android:id="@+id/lockusageTX"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30sp"
+            android:text="//Locker Usage"
+            android:textColor="@android:color/white"
+            android:textSize="28sp"
+            android:textStyle="bold"
+            tools:text="Locker Usage" />
+    </LinearLayout>
+
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10sp"
+            android:weightSum="1">
+
+            <TextView
+                android:id="@+id/choosefloorTX"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30sp"
+                android:layout_marginTop="10sp"
+                android:text="Choose Floor :"
+                android:textColor="@android:color/white"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <Spinner
+                android:layout_marginTop="10sp"
+                android:layout_width="184dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/choosefloor"
+                android:textColor="@android:color/white"
+                android:textSize = "20dp"
+                android:duplicateParentState="false"
+                android:entries="@array/choosefloor_array"
+                android:layout_weight="0.07"
+                android:prompt="@string/ChooseFloor" />
+
+        </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="280dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:orientation="vertical"
+        android:weightSum="1">
+
+        <Button
+            android:id="@+id/available_btn"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="45sp"
+            android:gravity="center"
+            android:text="@string/availableLocker"
+            android:textAppearance="@style/TextAppearance.AppCompat.Button"
+            android:textSize="26sp"
+            android:textStyle="bold"
+            tools:text="Available" />
+
+        <Button
+            android:id="@+id/unavailable_btn"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="100sp"
+            android:text="@string/unavailableLocker"
+            android:textAlignment="center"
+            android:textAppearance="@style/TextAppearance.AppCompat.Button"
+            android:textSize="26sp"
+            android:textStyle="bold"
+            tools:text="Unavailable" />
+
+    </LinearLayout>
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="321dp"
+        android:id="@+id/scrollview"
+        android:layout_gravity="center_vertical"
+        android:textSize="28dp"
+        android:textColor = "@color/lightgray">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"/>
+    </ScrollView>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_gravity="bottom"
+        android:background="@mipmap/logo0"/>
+</LinearLayout>

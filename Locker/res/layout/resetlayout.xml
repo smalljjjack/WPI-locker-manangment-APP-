@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/red">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="341dp"
+            android:layout_height="61dp"
+            android:layout_gravity="center_vertical|center_horizontal"
+            android:layout_marginLeft="30dp"
+            android:gravity="center"
+            android:text="Retrieve password"
+            android:textAlignment="textEnd"
+            android:textColor="@android:color/holo_blue_light"
+            android:textSize="38sp"
+            android:textStyle="bold"
+            tools:text="Retrieve Password" />
+
+        <Button
+            android:id="@+id/logoff_btn"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="right"
+            android:layout_marginLeft="100sp"
+            android:layout_weight="0.13"
+            android:shadowColor="@color/brown"
+            android:background="@drawable/roundbutton"
+            android:text="@string/LogOff"
+            android:textAllCaps="false"
+            android:textColor="@android:color/white"
+            android:textSize="23sp"
+            android:textStyle="bold|italic"
+            tools:text="Log Off" />
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="70dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="60dp"
+            android:layout_marginLeft="20dp"
+            android:layout_weight="1"
+            android:gravity="left"
+            android:text="UserID:"
+            android:textAlignment="viewStart"
+            android:textColor="@android:color/white"
+            android:textSize="28sp"
+            android:textStyle="bold"
+            tools:text="UserID:" />
+
+        <EditText
+            android:id="@+id/useridET"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="26dp"
+            android:ems="10"
+            android:gravity="center"
+            android:inputType="number"
+            android:lines="@android:color/white"
+            android:textAlignment="center"
+            android:textColor="@android:color/white"
+            android:textSize="28sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="15dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="200dp"
+            android:layout_height="60dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_weight="1"
+            android:gravity="left"
+            android:text="Verification Code:"
+            android:textColor="@android:color/white"
+            android:textSize="28sp"
+            android:textStyle="bold"
+            tools:text="Verification Code:" />
+
+        <EditText
+            android:id="@+id/vericode"
+            android:layout_width="280dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="20dp"
+            android:layout_weight="1"
+            android:ems="10"
+            android:gravity="center"
+            android:inputType="number"
+            android:textColor="@android:color/white"
+            android:textSize="28sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="15dp"
+        android:orientation="horizontal">
+
+
+        <TextView
+            android:id="@+id/resetpasswordTX"
+            android:layout_width="wrap_content"
+            android:layout_height="60dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:text="Reset Password"
+            android:textColor="@android:color/white"
+            android:textSize="28sp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/resetpasswordET"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="50dp"
+            android:layout_marginTop="20dp"
+            android:ems="10"
+            android:inputType="number"
+            android:textColor="@android:color/white"
+            android:textSize="28sp" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/reset_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="250dp"
+
+        android:layout_marginTop="120dp"
+        android:text="@string/Reset"
+        android:textAppearance="@style/TextAppearance.AppCompat.Button"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        tools:text="Reset" />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="350dp"
+        android:layout_gravity="bottom"
+        android:background="@mipmap/logo0" />
+
+</LinearLayout>
