@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\androidProject\lockersystem\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="F:\androidProject\lockersystem\app\build\intermediates\pre-dexed\release\com.android.support-support-core-utils-25.1.1_8e5e845c5abddc5dd88f0e42fa3053481fc7c394.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\androidProject\lockersystem\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="F:\androidProject\lockersystem\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.1_5d71aa8584b385b935cb9a8c509259db7a7f471a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Small\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="F:\androidProject\lockersystem\app\build\intermediates\pre-dexed\release\support-annotations-25.1.1_dd0649c418539ef554fcdad5511d9ab7de8f7bc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\androidProject\lockersystem\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="F:\androidProject\lockersystem\app\build\intermediates\pre-dexed\release\com.android.support-support-fragment-25.1.1_5d71aa8584b385b935cb9a8c509259db7a7f471a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\androidProject\lockersystem\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="F:\androidProject\lockersystem\app\build\intermediates\pre-dexed\release\com.android.support-support-compat-25.1.1_ffd9f6c67a9fb4312fab904f68518c4243cf423d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\androidProject\lockersystem\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="F:\androidProject\lockersystem\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.1_4b196b3959efab10310a1887862d52543b7d34d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\androidProject\lockersystem\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="F:\androidProject\lockersystem\app\build\intermediates\pre-dexed\release\com.android.support-support-core-ui-25.1.1_9e25040236512a252328f5f002a652163482d005.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\androidProject\lockersystem\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="F:\androidProject\lockersystem\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.1_9e25040236512a252328f5f002a652163482d005.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\androidProject\lockersystem\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="F:\androidProject\lockersystem\app\build\intermediates\pre-dexed\release\com.android.support-support-media-compat-25.1.1_4b196b3959efab10310a1887862d52543b7d34d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\androidProject\lockersystem\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\androidProject\lockersystem\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.1_e4a3c67bd5343adeb5c36fe4bef3af3eb3c135d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\androidProject\lockersystem\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="F:\androidProject\lockersystem\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-25.1.1_eb9adafce27c7ed198e2062b4b5c916e12126d75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\androidProject\lockersystem\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="F:\androidProject\lockersystem\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.1_eb9adafce27c7ed198e2062b4b5c916e12126d75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\androidProject\lockersystem\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\androidProject\lockersystem\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-25.1.1_e4a3c67bd5343adeb5c36fe4bef3af3eb3c135d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\androidProject\lockersystem\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="F:\androidProject\lockersystem\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.1_ffd9f6c67a9fb4312fab904f68518c4243cf423d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Small\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="F:\androidProject\lockersystem\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_dd0649c418539ef554fcdad5511d9ab7de8f7bc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\androidProject\lockersystem\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="F:\androidProject\lockersystem\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-25.1.1_bb1d8bb3a61fcb2883ac382c9be21ba9e80faff3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\androidProject\lockersystem\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="F:\androidProject\lockersystem\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.1_bb1d8bb3a61fcb2883ac382c9be21ba9e80faff3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\androidProject\lockersystem\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="F:\androidProject\lockersystem\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-25.1.1_a659f0821dbf53f955ebe0a8997b5fd5e99084ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\androidProject\lockersystem\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="F:\androidProject\lockersystem\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.1_8e5e845c5abddc5dd88f0e42fa3053481fc7c394.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\androidProject\lockersystem\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="F:\androidProject\lockersystem\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.1_a659f0821dbf53f955ebe0a8997b5fd5e99084ca.jar" />
+    </item>
+
+</items>
