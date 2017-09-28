@@ -1,14 +1,12 @@
 # WPI-locker-manangment-APP-
 Java app development
 
-I did this Android Application in 2017 Spring for the MIS 571 Database develop application course final project. 
+I constructed this Android Application in 2017 Spring as the MIS 571 Database develop application course final project. 
 
 This program is for helping WPI gym administrator manage the gym lockers. It stores all user, locker and administrator's information in
-Database. I applied SQLite as the model construct the Database. This app accomplished User register, locker register, locker maintainence,
-user usage document and check functions. So adminstrator could east sustain the locker and check which locker is avaliable or filld. 
+Database. I applied SQLite as the model to establish the Database. This app accomplished User register, locker register, locker maintainence,
+user usage document and check functions. So adminstrator could be more easy to sustain the locker and check which locker is avaliable or unavaliable. 
 
-When the administrator clean the locker in every night, they will not need to the locker one by one. And when a user need a locker, s/he 
-could just check which locker is avaliable on the app. And when one locker is working worng, the administrator can just contact the maintainence
-by the app and prohibit other using it.
-
-I used Java studio, Java to construct he app and used HTML, XML to establish user Interface.
+When the administrator need to clean the locker, they will not have to check the locker one by one. And when a user needs a locker, s/he 
+could just check the locker information on the app. And when one locker is working worng, the administrator can contact the maintainence
+with using the app and prohibit other user using it.
